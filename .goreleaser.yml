@@ -51,7 +51,7 @@ nfpms:
       preremove: "packaging/scripts/preremove.sh"
 release:
   github:
-    owner: Monitoring-Projects
+    owner: starifly
     name: process-exporter
   draft: false
   prerelease: true
